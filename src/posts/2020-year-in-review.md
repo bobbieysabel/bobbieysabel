@@ -15,51 +15,101 @@ What a whirlwind of a year. When I look back on 2020, here are the stories I wan
 
 ![The food stalls at Gwangjang Market in Seoul. There's a crowd of people, vendors selling their goods, and a large table full of mung bean pancakes.](/images/img_4618.jpg "Gwangjang Market in Seoul")
 
-I got to travel to Korea at the beginning of the year to attend my nephew's second birthday. My parents and I spent New Year's Eve at the airport waiting for the flight to Seoul.  I'd experienced rejection after rejection in my job hunt in the final quarter of 2019, so the trip was a welcome reprieve from life at the time. During that trip, I'd resolved that this year I'd get my life together, and that return flight Incheon to NYC would be the last time I utterly dread returning to reality. (Little did I know, a pandemic was waiting in the wings).
+I got to travel to Korea at the beginning of the year to attend my nephew's second birthday. My parents and I spent New Year's Eve at the airport waiting for the flight to Seoul.  I'd experienced rejection after rejection in my job hunt in the final quarter of 2019, so the trip was a welcome reprieve from life at the time.
 
-Korea was beautiful. I loved getting the opportunity to explore a new country with my parents. Despite the turmoil and uncertainty that surrounded this period of my life, I was grateful to spend so much time with them. I know they won't be around together.
+![The front of Grand Budapest Doll Hotel in Gamcheon Cultural Village in Busan, Korea.](/images/img_4906.jpg "Grand Budapest Doll Hotel in Gamcheon Cultural Village in Busan.")
+
+I also took some regional trips to Cape Cod and the Poconos.
 
 #### Relationships
 
-Reached third year with my current boyfriend, in February. It's been a weird few years for us. We'd already been somewhat long distance, only seeing each other once a month. and then COVID hit! But me and him are doing incredible, and I'm grateful for him.
+My boyfriend and I celebrated our third anniversary in February. This year we only got to spend time together in person three times, but we're going strong. There are uncertain moments where I wonder what our future together will look like. Will we grow apart or grow together? The predominant mindset of people my age seems to be a fear of commitment, as if a long-term relationship is an *unfathomable* restriction of freedom. I find it to be the opposite. Committing to him has been the most freeing decision I've made so far. 
 
-Month before NYC shut down, I had an incredible night with my college friends, a lot of who I haven't seen since graduation, some of who I would like to see more often than I currently get to. For a while I've really been mourning the loss of closeness that we had. It's okay, I mean, that's life and we all have to move on. But it makes me think a lot about friendships. ^^Who will be the friends of this decade? Who will be the friends of the next decade?^^
+The month before NYC shut down, I had a reunion at a bar with my college friends, most of whom I haven't seen since graduation. Some I would like to see more often than I currently get to. I've been mourning the loss of closeness that we had. It's part of life, but it makes me think a lot about the impermanence of friendships. How many people were only friends because we were in the same place at the same time? ***Who will be the friends of this decade? Who will be the friends of the next decade?***
 
-My uncle died, due to non-COVID related reasons and I felt...nothing really. I'd probably spoken to the man like 5 times in my lifetime, despite seeing him regularly at family events. I felt like a detached observer. I felt loss on behalf of my family who deeply felt his loss. I made the video we played at the funeral services. I thought about how one measures a life.
+I spent a ton of time with my parents this year, 99% of it at home. Sometimes I play the comparison game thinking about how other people in their 20s have moved out, but in the end: I couldn't care less. Because I live at home, I get to take walks everyday with my dad. I get to have dinner everyday with my mom. I'm grateful to spend so much time with them. They're not going to be around forever.
 
-My grandmother turned 100. We'd originally planned to have a huge party for her, which obviously couldn't happen.
+My grandmother turned 100. I'm grateful that she's alive and I still have opportunities to make her laugh.
+
+Discovered the [Interintellect](https://www.interintellect.com/). I haven't gotten to attend as many salons as I'd like, but the ones I've attended have been a pleasure. It's been refreshing and nourishing to discuss and learn with other curious intellectuals.
 
 #### Professional
 
-Sometime in April I'd resolved to figure out what the fuck I'm doing with my career. I'd been burnt out from looking for work in the tech world, and I decided that if I didn't come out from this pandemic (which at the time I hadn't thought would last...the rest of the year) I would think of another path. And I didn't really want to think of another path, so I resolved to finally get that job lol.
-
-During the summer I took on some unpaid design work.
-
-Got a product design job. I knew it would feel good, but I was startled at how much it felt like a weight had been lifted from my shoulders. ^^Of course, now it's only a short time before I start thinking about what's next? What do I really want to do?^^
+Got a product design job a year after bootcamp graduation, two years after graduating college. I knew it would feel good, but I was startled at how much it felt like a weight had been lifted from my shoulders. My job is awesome, the work is interesting, and my team is supportive. I spent the final quarter of 2020 focusing on ramping up and becoming a productive team member. I'm looking forward to taking on more challenging work in 2021.
 
 #### Pandemic
 
-Lots of Zoom hangouts with friends, playing Jackbox, watching music festivals together. Moments I enjoyed, but simply don't approximate the real thing. I continue to wonder about friendship and how much I truly have in common with these people who are my friends. ^^How much of it was simply being in the same place at the same time? ^^ (Not passing judgment on that, I'm just curious about the randomness of it all)
+Mom got COVID and recovered.
+
+Zoom fatigue! Lots of Zoom hangouts with friends, playing Jackbox, watching music festivals together. Moments I enjoyed, but simply don't approximate the real thing. Zoom and Slack meetings for work.
+
+Mixed feelings about the quarantine life. Remote work has been a positive experience, although it has its pitfalls. I love spending time at home. Not going out has given me ample time to read, write, work on side projects. Having weekends completely free has given me space to breathe. However, after so much time at home I do start to feel like the walls are closing in on me. I miss seeing my friends and loved ones. And I spent a shameful amount of time doomscrolling this year 😅  something I want to work on in 2021.
 
 ## Themes
 
 And if I had to make sense of this insane year, here would be the themes.
 
-Gratitude. I have so much to be grateful for this year.  I am alive and almost everyone I love is alive. I found a product design job and I get to do work I enjoy. I get to work remotely.
+* **Gratitude**. I have so much to be grateful for this year.  I am alive and almost everyone I love is alive. I found a product design job and I get to do work I enjoy. I get to work remotely. I want to maintain and deepen this sense of gratitude.
+* **Privilege**. On the flip side, I am keenly aware, perhaps now more than ever, of the societal structures that allow me to stay home and work remotely and get paid well for it, while others die doing essential work. I don't know what to do about it, but this is something I want to think more about in 2021.
+* **Hedonic treadmill of life.** I felt demoralized during my period of unemployment, then was ecstatic to find a good job, then shortly after returned to a baseline level of happiness and began thinking: what's next? It's not necessarily a bad thing to be looking toward the future and thinking about where I want to take my career, but I am the type of person who gets stuck there. I need to escape the hedonic treadmill and focus on being content with who I am and where I am in the present.
+* **Friendship**. Spent a lot of time this year thinking about what friendship looks like in a digital world, the nature of friendship, being vulnerable with friends, wondering which of my friends will still be a friend in a year, or five. One thing I'm learning: relationships don't have to be constricted by geography, it's possible to make strong connections online, and I want to make more in 2021. 
+* **Words**. I spent a lot of time by myself this year. Turned to writing to make sense of it all. I'm starting this site and committing to it so I can have a public home for some of my words.
 
-Privilege. On the flip side, I am keenly aware, perhaps now more than ever, of the class differences that allow me to stay home and work remotely and get paid well for it, while others die doing essential work. I don't know what to do about it.
+## Media
 
-Hedonic Treadmill. I felt demoralized during my period of unemployment, then was ecstatic to find a good job, then shortly after returned to a baseline level of happiness and began thinking: what's next? It's not necessarily a bad thing to be looking toward the future and thinking about where I want to take my career, but I am the type of person who gets stuck there. I need to escape the hedonic treadmill and focus on being content with who I am and where I am in the present.
+#### Television 📺
 
-Friendship. 
+Watched a ton of great stuff this year.
 
+* Avatar: The Last Airbender ❤️  - so glad I watched this. everyone should watch this.
+* Legend of Korra ❤️
+* Kim's Convenience, Season 4 ❤️
+* Grace and Frankie, Season 6 ❤️
+* Big Little Lies ❤️
+* Carmen Sandiego, Season 3 ❤️
+* Stein's Gate ❤️
+* The Queen's Gambit 👍🏼
+* Crash Landing on You 👍🏼
+* The Crown, Season 4 👍🏼
+* Neon Genesis Evangelion - haven't finished yet
 
+Movies
 
-Mom gets and recovers from COVID
+* Princess Mononoke
+* The Handmaiden
+* The Pianist
+* Whisper of the Heart
+* Parasite
 
-* Stories of this Year, mind jogged by photos
+#### Music 🎶
 
-  * I take a few regional trips with my parents, once again just incredibly grateful that I get to spend this time with them. How grateful I am that all three of us are alive.
-  * Walks with my father
-  *
-  * And... I discover Roam, I discover the Interintellect. I start writing a lot more, journaling. I start trying to build a meditation habit and be more mindful. I start reflecting more on the big questions I want to answer in my life. That's currently the theme of my life, I guess. Figuring that out as I revel in my new freedom. What I want to do. Who I want to be.
+Spotify Wrapped says I spent 10,665 minutes listening this year.
+
+* Top Genres
+
+  1. Pop
+  2. Classical Performance
+  3. EDM
+  4. Vapor Twitch
+  5. Micro House
+* Top Songs
+
+  1. Skin - Manila Killa, outsideOUTSIDE
+  2. I'll Never Love Again - FIlm Version - Radio Edit - Lady Gaga, Bradley Cooper
+  3. Nocturne No. 11 in G minor, Op. 37 no. 1 - Frederic Chopin, Claudio Arrau
+  4. Stardust - Alex Lustig
+  5. like we were the last two people on earth - dj poolboi
+* Top Artists
+
+  1. Daft Punk
+  2. Zhu
+  3. Claudio Arrau
+  4. Young the Giant
+  5. The Civil Wars
+
+## Tools and Apps
+
+Software I spent a lot of time with this year.
+
+* RoamResearch
+* Spotify
