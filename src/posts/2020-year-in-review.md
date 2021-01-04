@@ -1,7 +1,7 @@
 ---
 layout: layouts/post.njk
 title: 2020 Year in Review
-date: 2021-01-01T04:59:00.000Z
+date: 2021-01-01T04:00:00.000Z
 tags:
   - blog
   - review
