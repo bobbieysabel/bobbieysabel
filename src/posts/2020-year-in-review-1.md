@@ -7,13 +7,11 @@ tags:
   - review
   - blog
 ---
-
-
 What a whirlwind of a year. When I look back on 2020, here are the stories I want to remember.
 
 ## Stories[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-stories)
 
-#### Travel
+### Travel
 
 ![Gwangjang Market in Seoul, Korea. Photo of open air food market with several food stalls and vendors selling to the crowds. Large table has multiple stacks of mung bean pancakes.](/images/img_4618.jpg "Gwangjang Market in Seoul.")
 
@@ -23,23 +21,29 @@ I got to travel to Korea at the beginning of the year to attend my nephew's seco
 
 I also took some regional trips to Cape Cod and the Poconos.
 
-#### Relationships
+### Relationships
+
+#### Love
 
 My boyfriend and I celebrated our third anniversary in February. This year we only got to spend time together in person three times, but we're going strong. There are uncertain moments where I wonder what our future together will look like. Will we grow apart or grow together? The predominant mindset of people my age seems to be a fear of commitment, as if a long-term relationship is an *unfathomable* restriction of freedom. I find it to be the opposite. Committing to him has been the most freeing decision I've made so far.
 
+#### Friendship
+
 The month before NYC shut down, I had a reunion at a bar with my college friends, most of whom I haven't seen since graduation. Some I would like to see more often than I currently get to. I've been mourning the loss of closeness that we had. It's part of life, but it makes me think a lot about the impermanence of friendships. How many people were only friends because we were in the same place at the same time? ***Who will be the friends of this decade? Who will be the friends of the next decade?***
+
+Discovered the [Interintellect](https://www.interintellect.com/). I haven't gotten to attend as many salons as I'd like, but the ones I've attended have been a pleasure. It's been refreshing and nourishing to discuss and learn with other curious intellectuals.
+
+#### Family
 
 I spent a ton of time with my parents this year, 99% of it at home. Sometimes I play the comparison game thinking about how other people in their 20s have moved out, but in the end: I couldn't care less. Because I live at home, I get to take walks everyday with my dad. I get to have dinner everyday with my mom. I'm grateful to spend so much time with them. They're not going to be around forever.
 
 My grandmother turned 100. I'm grateful that she's alive and I still have opportunities to make her laugh.
 
-Discovered the [Interintellect](https://www.interintellect.com/). I haven't gotten to attend as many salons as I'd like, but the ones I've attended have been a pleasure. It's been refreshing and nourishing to discuss and learn with other curious intellectuals.
-
-#### Professional
+### Professional
 
 Got a product design job a year after bootcamp graduation, two years after graduating college. I knew it would feel good, but I was startled at how much it felt like a weight had been lifted from my shoulders. My job is awesome, the work is interesting, and my team is supportive. I spent the final quarter of 2020 focusing on ramping up and becoming a productive team member. I'm looking forward to taking on more challenging work in 2021.
 
-#### Pandemic
+### Pandemic
 
 Mom got COVID and recovered.
 
@@ -47,7 +51,7 @@ Zoom fatigue! Lots of Zoom hangouts with friends, playing Jackbox, watching musi
 
 Mixed feelings about the quarantine life. Remote work has been a positive experience, although it has its pitfalls. I love spending time at home. Not going out has given me ample time to read, write, work on side projects. Having weekends completely free has given me space to breathe. However, after so much time at home I do start to feel like the walls are closing in on me. I miss seeing my friends and loved ones. And I spent a shameful amount of time doomscrolling this year 😅 something I want to work on in 2021.
 
-## Themes[permalink](https://bobbieysabel.com/posts/2020-year-in-review/#heading-themes)
+## Themes[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-themes)
 
 And if I had to make sense of this insane year, here would be the themes.
 
@@ -57,33 +61,61 @@ And if I had to make sense of this insane year, here would be the themes.
 * **Friendship**. Spent a lot of time this year thinking about what friendship looks like in a digital world, the nature of friendship, being vulnerable with friends, wondering which of my friends will still be a friend in a year, or five. One thing I'm learning: relationships don't have to be constricted by geography, it's possible to make strong connections online, and I want to make more in 2021.
 * **Words**. I spent a lot of time by myself this year. Turned to writing to make sense of it all. I'm starting this site and committing to it so I can have a public home for some of my words.
 
-## Media[permalink](https://bobbieysabel.com/posts/2020-year-in-review/#heading-media)
+## Media[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-media)
 
-#### Television 📺
+### Television 📺
 
 Watched a ton of great stuff this year.
 
-* Avatar: The Last Airbender ❤️ - so glad I watched this. everyone should watch this.
+* Avatar: The Last Airbender ❤️  - so glad I watched this. everyone should watch this.
 * Legend of Korra ❤️
+* Death Note ❤️
 * Kim's Convenience, Season 4 ❤️
-* Grace and Frankie, Season 6 ❤️
-* Big Little Lies ❤️
-* Carmen Sandiego, Season 3 ❤️
+* Big Little Lies, Seasons 1-2 ❤️
+* My Love from the Star ❤️
 * Stein's Gate ❤️
-* The Queen's Gambit 👍🏼
+* Because This is My First Life ❤️
+* The Marvelous Mrs Maisel, Season 3 ❤️
+* Carmen Sandiego, Season 3 ❤️
+* The Queen's Gambit ❤️
+* Survivor: Heroes vs Villains ❤️
+* Survivor: Micronesia ❤️
+* Survivor: Cook Islands ❤️
+* Survivor: China ❤️
+* Grace and Frankie, Season 6 👍🏼
+* Encounter 👍🏼
 * Crash Landing on You 👍🏼
+* Let's Eat, Seasons 1-3 👍🏼
+* It's Okay, That's Love 👍🏼
+* Downton Abbey 👍🏼
 * The Crown, Season 4 👍🏼
+* Hanna, Season 1 👍🏼
+* Star Trek: Picard, Season 1 👍🏼
+* Star Trek: Discovery, Seasons 1-2 👍🏼
+* Survivor: Borneo 👍🏼
+* Survivor: Pearl Islands 👍🏼
+* Survivor: American Samoa 👍🏼
+* Love in the Moonlight 👎🏼
+* Memories of the Alhambra 👎🏼
 * Neon Genesis Evangelion - haven't finished yet
+* Goblin - abandoned
+* Something in the Rain - abandoned
 
-Movies
+### Movies 🎞
 
-* Princess Mononoke
 * The Handmaiden
+* Mononoke Hime/Princess Mononoke
 * The Pianist
-* Whisper of the Heart
+* Mimi wo Sumaseba/Whisper of the Heart
 * Parasite
+* The Age of Innocence
+* The Farewell
+* Kimi no Suizou wo Tabetai/I want to eat your pancreas
+* Already Tomorrow in Hong Kong
+* Knives Out
+* D'Ninang
 
-#### Music 🎶
+### Music 🎶
 
 Spotify Wrapped says I spent 10,665 minutes listening this year.
 
@@ -109,7 +141,7 @@ Spotify Wrapped says I spent 10,665 minutes listening this year.
   4. Young the Giant
   5. The Civil Wars
 
-## Tools and Apps[permalink](https://bobbieysabel.com/posts/2020-year-in-review/#heading-tools-and-apps)
+## Tools and Apps[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-tools-and-apps) 👩🏻‍💻
 
 Software I spent a lot of time with this year.
 
