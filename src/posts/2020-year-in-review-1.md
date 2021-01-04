@@ -1,6 +1,8 @@
 ---
 layout: layouts/post.njk
 title: A Review of 2020
+metaDesc: What a whirlwind of a year. When I look back on 2020, here are the
+  stories I want to remember.
 date: 2020-12-30T05:01:20.450Z
 tags:
   - annual
@@ -65,7 +67,7 @@ And if I had to make sense of this insane year, here would be the themes.
 
 ### Television 📺
 
-Watched a ton of great stuff this year.
+Watched a ton of great series this year. Probably too much.
 
 * Avatar: The Last Airbender ❤️  - so glad I watched this. everyone should watch this.
 * Legend of Korra ❤️
