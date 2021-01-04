@@ -1,6 +1,6 @@
 ---
 layout: layouts/post.njk
-title: 2020 Year in Review
+title: A Review of 2020
 date: 2020-12-30T05:01:20.450Z
 tags:
   - annual
