@@ -9,7 +9,7 @@ tags:
 ---
 What a whirlwind of a year. When I look back on 2020, here are the stories I want to remember.
 
-## Stories[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-stories)
+## Stories
 
 ### Travel
 
