@@ -51,7 +51,7 @@ Zoom fatigue! Lots of Zoom hangouts with friends, playing Jackbox, watching musi
 
 Mixed feelings about the quarantine life. Remote work has been a positive experience, although it has its pitfalls. I love spending time at home. Not going out has given me ample time to read, write, work on side projects. Having weekends completely free has given me space to breathe. However, after so much time at home I do start to feel like the walls are closing in on me. I miss seeing my friends and loved ones. And I spent a shameful amount of time doomscrolling this year 😅 something I want to work on in 2021.
 
-## Themes[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-themes)
+## Themes
 
 And if I had to make sense of this insane year, here would be the themes.
 
@@ -61,7 +61,7 @@ And if I had to make sense of this insane year, here would be the themes.
 * **Friendship**. Spent a lot of time this year thinking about what friendship looks like in a digital world, the nature of friendship, being vulnerable with friends, wondering which of my friends will still be a friend in a year, or five. One thing I'm learning: relationships don't have to be constricted by geography, it's possible to make strong connections online, and I want to make more in 2021.
 * **Words**. I spent a lot of time by myself this year. Turned to writing to make sense of it all. I'm starting this site and committing to it so I can have a public home for some of my words.
 
-## Media[](https://bobbieysabel.com/posts/2020-year-in-review/#heading-media)
+## Media
 
 ### Television 📺
 
