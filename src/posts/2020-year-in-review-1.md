@@ -49,7 +49,7 @@ Mom got COVID and recovered.
 
 Zoom fatigue! Lots of Zoom hangouts with friends, playing Jackbox, watching music festivals together. Moments I enjoyed, but simply don't approximate the real thing. Zoom and Slack meetings for work.
 
-Mixed feelings about the quarantine life. Remote work has been a positive experience, although it has its pitfalls. I love spending time at home. Not going out has given me ample time to read, write, work on side projects. Having weekends completely free has given me space to breathe. However, after so much time at home I do start to feel like the walls are closing in on me. I miss seeing my friends and loved ones. And I spent a shameful amount of time doomscrolling this year 😅 something I want to work on in 2021.
+Mixed feelings about the quarantine life. Remote work has been a positive experience, although it has its pitfalls. I love spending time at home. Not going out has given me ample time to read, write, work on side projects. Having weekends completely free has given me space to breathe. However, after so much time at home I do start to feel like the walls are closing in on me. I miss seeing my friends and loved ones. And I spent a shameful amount of time doomscrolling this year 😅  something I want to work on in 2021.
 
 ## Themes
 
@@ -105,15 +105,15 @@ Watched a ton of great stuff this year.
 
 * The Handmaiden
 * Mononoke Hime/Princess Mononoke
-* The Pianist
 * Mimi wo Sumaseba/Whisper of the Heart
+* The Farewell
 * Parasite
 * The Age of Innocence
-* The Farewell
-* Kimi no Suizou wo Tabetai/I want to eat your pancreas
+* The Pianist
 * Already Tomorrow in Hong Kong
 * Knives Out
 * D'Ninang
+* Kimi no Suizou wo Tabetai/I want to eat your pancreas
 
 ### Music 🎶
 
