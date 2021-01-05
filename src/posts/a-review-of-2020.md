@@ -1,6 +1,7 @@
 ---
 layout: layouts/post.njk
 title: A Review of 2020
+metaTitle: 2020 Year in Review
 metaDesc: What a whirlwind of a year. When I look back on 2020, here are the
   stories I want to remember.
 date: 2020-12-31T05:47:58.452Z
@@ -78,12 +79,11 @@ And if I had to make sense of this insane year, here would be the themes.
 
 ## Media
 
-Watched a ton of great series this year. Probably too much. Rewatched several Survivor seasons with my dad (it's kind of our thing). Delved into Korean cinema and dramas for the first time. Also overcame my bias against animation, watched Avatar for the first time, and watched my first Ghibli movie ever. Television and Film lists are roughly ordered from what I liked most to least, but it's not a definitive ranking.
+I watched a ton of great series and films this year. Probably too much, but I'll give myself a pass since there was a pandemic and everything. I rewatched several Survivor seasons with my dad (it's kind of our thing). Delved into Korean cinema and dramas for the first time. I also overcame my bias against animation, watched Avatar for the first time, and watched my first Ghibli movie ever. Television and Film lists are roughly ordered from what I liked most to least, but it's not a definitive ranking.
 
 ### Television 📺
 
-[Avatar: The Last Airbender, Seasons 1-3](https://www.imdb.com/title/tt0417299/) ❤️  - So glad I watched this. Everyone should watch this. If you're thinking *but that's a kid's animated series that aired over over a decade ago*, shut up and watch it anyway. You can thank me later.
-
+* [Avatar: The Last Airbender, Seasons 1-3](https://www.imdb.com/title/tt0417299/) ❤️  - So glad I watched this. Everyone should watch this. If you're thinking *but that's a kid's animated series that aired over over a decade ago*, shut up and watch it anyway. You can thank me later.
 * [Legend of Korra, Seasons 1-4](https://www.imdb.com/title/tt1695360/?ref_=fn_al_tt_2) ❤️
 * [Death Note](https://myanimelist.net/anime/1535/Death_Note) ❤️
 * [Kim's Convenience, Season 4](https://www.imdb.com/title/tt5912064/) ❤️
@@ -148,11 +148,11 @@ Spotify Wrapped says I spent 10,665 minutes listening this year, which is actual
   5. Micro House
 * Top Songs
 
-  1. Skin - Manila Killa, outsideOUTSIDE
-  2. I'll Never Love Again - Film Version - Radio Edit - Lady Gaga, Bradley Cooper
-  3. Nocturne No. 11 in G minor, Op. 37 no. 1 - Frederic Chopin, Claudio Arrau
-  4. Stardust - Alex Lustig
-  5. like we were the last two people on earth - dj poolboi
+  1. [Skin - Manila Killa, outsideOUTSIDE](https://open.spotify.com/track/7EtRjxGWJcM0O4kyCJghJ9?si=Ho2zcHA-R1yiGDeneVjHOw)
+  2. [I'll Never Love Again - Film Version - Radio Edit - Lady Gaga, Bradley Cooper](https://open.spotify.com/track/3DKpA54hrFIdPN6AtL9HXa?si=nXmn3OsTSEa49zEDexCs_Q)
+  3. [Nocturne No. 11 in G minor, Op. 37 no. 1 - Frederic Chopin, Claudio Arrau](https://open.spotify.com/track/55cHWCjq7EhwwMx9mTan1w?si=PFdpelIbTrGur9bA9dwSYA)
+  4. [Stardust - Alex Lustig](https://open.spotify.com/track/45E6bRQfFgG71K6A0uwPsW?si=94c2SnuJQ86VrzfkNFKhlQ)
+  5. [like we were the last two people on earth - dj poolboi](https://open.spotify.com/track/6Xg2AjBM9IUSPwojhCP77e?si=1O-c4ab9SlWvBLUphhu_UA)
 * Top Artists
 
   1. Daft Punk
