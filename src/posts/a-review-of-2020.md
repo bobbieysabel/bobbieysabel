@@ -71,8 +71,8 @@ And if I had to make sense of this insane year, here would be the themes.
 
 Watched a ton of great series this year. Probably too much.
 
-* Avatar: The Last Airbender ❤️  - so glad I watched this. everyone should watch this.
-* Legend of Korra ❤️
+* Avatar: The Last Airbender, Seasons 1-3 ❤️  - so glad I watched this. everyone should watch this. if you're thinking *but that's a kid's series that aired over over a decade ago*, shut up and watch it anyway. you can thank me later.
+* Legend of Korra, Seasons 1-4 ❤️
 * Death Note ❤️
 * Kim's Convenience, Season 4 ❤️
 * Big Little Lies, Seasons 1-2 ❤️
