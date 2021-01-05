@@ -9,8 +9,6 @@ tags:
   - review
   - blog
 ---
-
-
 What a whirlwind of a year. When I look back on 2020, here are the stories I want to remember.
 
 ## Stories
@@ -24,6 +22,8 @@ I got to travel to Korea at the beginning of the year to attend my nephew's seco
 ![Front of Grand Budapest Doll Hotel in Gamcheon Cultural Village in Busan, Korea. Front is covered in art. Woman is reading a paper. ](/images/img_4906.jpg "Grand Budapest Doll Hotel, Gamcheon Cultural Village in Busan.")
 
 I also took some regional trips to Cape Cod and the Poconos.
+
+![Sand dunes on Cape Cod National Seashore. Grey, cloudy sky. Two people walk into the distance on the dunes.](/images/img_7520.jpg "Sand dunes on Cape Cod National Seashore.")
 
 ### Relationships
 
@@ -150,4 +150,5 @@ Spotify Wrapped says I spent 10,665 minutes listening this year.
 Software I spent a lot of time with this year.
 
 * RoamResearch
+* You Need a Budget
 * Spotify
